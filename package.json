@@ -1,0 +1,14 @@
+{
+  "name": "yeah-1537",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "wiredep": "wiredep -s index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "wiredep": "^2.2.2"
+  }
+}
